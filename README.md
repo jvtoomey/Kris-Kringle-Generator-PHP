@@ -1,6 +1,6 @@
 # Kris-Kringle-Generator-PHP
 
-My wife has a large family, and every Christmas, each family member would buy a gift for every other family member. It was incredibly expensive, and burdensome, but nobody thought to change it.
+My wife has a large family, and every Christmas, each family member would buy a gift for every other family member. It was incredibly expensive and burdensome, but nobody thought to change it.
 
 Until, finally, someone learned about the "Kris Kringle" method of gift-giving, where you randomly pair people as gift givers, unbeknownst to each other, and on Christmas morning, that person will seek out their gift-recipient and present them their gift.
 For example, Harry might draw Hermione's name, Hermione draws Hagrid's name, Ron draws Harry's name, and Hagrid draws Ron's name.
