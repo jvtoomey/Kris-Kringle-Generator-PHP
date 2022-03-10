@@ -11,7 +11,7 @@ This method has so many advantages:
 - It becomes a fun challenge, as you can now focus on finding 1 appropriate & interesting gift for your person.
 - It adds an element of mystery and curiosity for Christmas morning when the gifts are revealed.
 
-The problem was that we needed to draw names from a hat, but some of the relatives lived far away and wouldn't be around unti Christmas.
+The problem was that we needed to draw names from a hat, but some of the relatives lived far away and wouldn't be around until Christmas.
 I thought about dropping out and being the admin to randomly link names, but I wanted to participate too, so I devised this method to use the web, so everybody can get their name from the website.
 I would still act as admin and email each person their code, but the beauty of the design is that the codes are encrypted so that, even though I'm handling the codes, I'm still just as in the dark about who each person got.
 
