@@ -8,7 +8,7 @@ The rule was that the gift couldn't be more than $25, and couldn't be cash or a 
 
 This method has so many advantages:
 - It's radically cheaper.
-- It's becomes a fun challenge, as you can now focus on finding 1 appropriate & interesting gift for your person.
+- It becomes a fun challenge, as you can now focus on finding 1 appropriate & interesting gift for your person.
 - It adds an element and mystery and curiosity for Christmas morning when the gifts are revealed.
 
 The problem was that we needed to draw names from a hat, but some of the relatives lived far away and wouldn't be around unti Christmas.
